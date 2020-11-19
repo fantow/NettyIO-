@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fbc9d4f-0191-4b06-b207-e3840f89be45" name="Default Changelist" comment="" />
+    <list default="true" id="8fbc9d4f-0191-4b06-b207-e3840f89be45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fantow/concurrent/EventLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fantow/concurrent/EventLoopGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fantow/main/MainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -15,19 +31,48 @@
         <option name="userSettingsFile" value="F:\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1kUsG2ZU1rUEfBG21LxHeQbI92w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fantow.main.MainThread" />
+      <module name="Fantty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fantow.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainThread" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,7 +96,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605766404823</updated>
+      <workItem from="1605766408599" duration="3018000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1605767861470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605767861470" />
+    <state width="1876" height="296" key="GridCell.Tab.0.bottom" timestamp="1605769297556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605769297556" />
+    <state width="1876" height="296" key="GridCell.Tab.0.center" timestamp="1605769297556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605769297556" />
+    <state width="1876" height="296" key="GridCell.Tab.0.left" timestamp="1605769297556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605769297556" />
+    <state width="1876" height="296" key="GridCell.Tab.0.right" timestamp="1605769297556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605769297556" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605767809008">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605767809008" />
   </component>
 </project>
